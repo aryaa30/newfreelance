@@ -1,0 +1,30 @@
+.mySwiper {
+    width: 93% ;
+    height: 300px; 
+  }
+  
+  .swiper-slide {
+    width: 270px !important; 
+    padding: 20px !important;
+    box-sizing: border-box !important;
+    border: 2px solid red !important;
+  }
+  
+  /* @media (max-width: 768px) {
+    .mySwiper  {
+        width: 95% !important;
+        padding: 0 50px;
+  }
+  .swiper-slide {
+    width: 240px !important; 
+    
+  }
+}
+  @media (max-width: 480px) {
+   .mySwiper {
+        width: 100%;
+      }
+  }
+
+
+  !important */

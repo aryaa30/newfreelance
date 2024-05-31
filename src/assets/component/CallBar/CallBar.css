@@ -1,0 +1,27 @@
+
+.custom-font-size{
+    font-weight: 500!important;
+}
+
+@media (max-width: 778px) {
+    .custom-font-size {
+        font-size: 0.875rem!important;
+      }
+    }
+    
+    @media (max-width: 767px) {
+    .custom-font-size {
+        font-size: 14px!important;
+        font-weight: 400!important;
+       
+      }
+    }
+
+    @media (max-width: 778px) {
+.for_media{
+
+    display: flex!important;
+    flex-direction: column!important;
+    align-items: center!important;
+}
+}

@@ -1,0 +1,27 @@
+
+    .round {
+        width: 30px;
+        height: 30px;
+      
+        border-radius: 50%;
+        text-align: center;
+border-right: 2.85714px solid #3a8fa2 ;
+border-left:2.85714px dotted #1b1c1c ;
+border-top: 2.85714px solid #3bae69;
+border-bottom:2.85714px solid #3bae69 ;
+      }
+.square{
+    margin-left: -32px;
+    padding-left: 40px;
+    margin-top: -14px;
+    padding-top: 10px;
+    border-left: 2.85714px solid #3aad6c;
+}
+
+.hs-heading{
+    width: max-content;
+    padding: 8px 6px 4px 6px;
+    color: White;
+ background: rgb(38,133,85);
+background: linear-gradient(90deg, rgba(38,133,85,1) 39%, rgba(33,102,109,1) 71%);
+}

@@ -1,0 +1,37 @@
+.navi-css{
+    padding: 10px 0;
+    
+}
+.bg-own{
+    background-color: rgba(235, 230, 230, 0.277);
+    border-radius: 10px;
+}
+
+.whats-app{
+    background-color: rgb(8, 159, 147) !important;
+    color: white !important;
+    border: none!important;
+    font-weight: 500 !important;
+margin-right: 5px !important;
+width: 175px;
+}
+.whats-app:hover{
+    background-color: white !important;
+    color:rgb(8, 159, 147)!important;
+}
+
+.Request_call { 
+    font-weight: 500 !important;
+    border: none!important;
+    width: 175px;
+}
+.Request_call:hover{
+    background-color: white !important;
+   
+}
+.padding{
+padding: 0!important;
+}
+.for-hover:hover{
+  color: rgb(8, 159, 147) !important;
+}
